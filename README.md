@@ -13,8 +13,9 @@
 #### 3.4. Jakie są moje oczekiwania wobec projektu? 
 ### ... kolejny etap w zdobyciu wisienki na torcie - pracy w branży IT :)
 ### Subtask 4. Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl :
-#### 4.1. Na czym polega aplikacja? Do czego służy?
+#### 4.1. Na czym polega aplikacja? Do czego służy? Aplikacja uożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników, po zalogowaniu się do profilu.
 #### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może bym coś zmieniła? 
+#### Funkcjonalności w aplikacji: dodawanie/edycja informacji na temat gracza, dodawanie / edycja meczu dla gracza, zmiana języka strony (do wybory dwa języki: angielski, polski), logowanie do profilu głównego aplikacji / strony za pomoca hasła i loginu; możliwośc generowanie wydruku i danych ze strony; filtrowanie informacji na stronie / wyszukiwarka; umożliwienie kontaktu z zespołem Dev. 
 #### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 #### 4.4. Czy aplikacja jest intuicyjna? 
 #### 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? 
@@ -31,3 +32,4 @@ aaa,"bbb","1000-03-01","lewa obrona","Odra Opole","3","[object Object],[object O
 #### 6. Zalecenia z mojej strony / usprawnienia działania strony:
 #### 6.1. Brakuje (wg mojej oceny) usorawnień na stronie, polegających na możliwości wyboru informacji wprowadzanych np. do prodili graczy, edycji / wprowadzania meczu w profilach graczy (zastosowałabym listy rozwijalne z możliwością wyboru np. w przypadku: ....)
 #### 6.2. Zastosowałabym wyszczególnienie jednostki czasu w przypadku edycji / wprowadzania danych do zakładki "Edycja meczu dla gracza" (Gracz -> wybór gracza - > "Mecze" -> Dodawanie meczu dla gracza ... lub Edycja meczu dla gracza ... - w polu: Czas gry - brakuje jednostki czasu, jaką należy wybrać (minuty, godziny, sekundy ?).
+#### 6.3. Po wybraniu w Scouts Panel / profilu głównym: zakładki Dev Team Contakt - pojawia się przekierowanie do Slacka - powinien zostać stworzony formulacz kontaktowy lub pozostawiony e-mail i dane kontaktowe, celem umożliwienie kontaktu z ekipą (przekierownaie do Slacka bez posiadania hasła i loginu dop grupy w nim, nie umożliwia skutecznego kontaktu).
