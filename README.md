@@ -35,4 +35,4 @@ aaa,"bbb","1000-03-01","lewa obrona","Odra Opole","3","[object Object],[object O
 #### 6.1. Brakuje (wg mojej oceny) usorawnień na stronie, polegających na możliwości wyboru informacji wprowadzanych np. do prodili graczy, edycji / wprowadzania meczu w profilach graczy (zastosowałabym listy rozwijalne z możliwością wyboru np. w przypadku: ....)
 #### 6.2. Zastosowałabym wyszczególnienie jednostki czasu w przypadku edycji / wprowadzania danych do zakładki "Edycja meczu dla gracza" (Gracz -> wybór gracza - > "Mecze" -> Dodawanie meczu dla gracza ... lub Edycja meczu dla gracza ... - w polu: Czas gry - brakuje jednostki czasu, jaką należy wybrać (minuty, godziny, sekundy ?).
 #### 6.3. Po wybraniu w Scouts Panel / profilu głównym: zakładki Dev Team Contakt - pojawia się przekierowanie do Slacka - powinien zostać stworzony formulacz kontaktowy lub pozostawiony e-mail i dane kontaktowe, celem umożliwienie kontaktu z ekipą (przekierownaie do Slacka bez posiadania hasła i loginu dop grupy w nim, nie umożliwia skutecznego kontaktu).
-### Subtask 5. Jira – DLA CHĘTNYCH
+### Subtask 5. Jira – DLA CHĘTNYCH - zadanie wykonane - działamy już w grupie :)
