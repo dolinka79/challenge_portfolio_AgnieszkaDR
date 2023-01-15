@@ -8,8 +8,8 @@
 #### Co mną kierowało? Jaki jest mój cel? 
 #### Jakie są moje oczekiwania wobec projektu? Napisz dosłownie kilka zdań :)
 ### Subtask 4. Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl :
-#### Na czym polega aplikacja? Do czego służy?
-#### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może bym coś zmieniła? 
-#### Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
-#### Czy aplikacja jest intuicyjna? 
-#### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? 
+#### 4.1. Na czym polega aplikacja? Do czego służy?
+#### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może bym coś zmieniła? 
+#### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
+#### 4.4. Czy aplikacja jest intuicyjna? 
+#### 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? 
