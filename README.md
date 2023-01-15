@@ -18,3 +18,8 @@
 #### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
 #### 4.4. Czy aplikacja jest intuicyjna? 
 #### 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? 
+#### Zauważone błędy:
+#### 1. Brak możliwości zalogowania poprzez przeglądarkę Chrome - żaden z podanych użytkowników i hasła "nie wchodzi". Po wpisaniu i próbie akceptacji, w celu zalogowania (na stronie głównej do logowania - Scouts panel: ) - pojawia się komunikat: niepraawidłowe hasło lub użytkownik" w języku angielskim: "Identifier or password invalid". 
+#### 2. W Scouts panel" - Main page, po wybraniu zakładki "Players" i profilu konkretnego zawodnika, przy próbie edytowania danych wskazanych w profilu gracza - pojawia się komunikat: "Cannot save player" po wciśnięciu przycisku "Submit".
+#### 3. W Scouts panel" - Main page, po wybraniu zakładki "Players" i profilu konkretnego zawodnika, przy próbie edytowania danych wskazanych w profilu gracza - pola wyboru i do wpisania przyjmują dwolone, niepoprawne dane, np. height - przyjmuje ujemne dane liczbowe; pola, które powinny przyjmowac dane im przeznaczone, tj.np. pola do pwisania danych cyfrowo-liczbowych przyjmują dane literowe, znaki specjalne. 
+#### 4. W Scouts panel" - Main page, po wybraniu zakładki "Players" i profilu konkretnego zawodnika, przy próbie edytowania danych wskazanych w profilu gracza po wciśnięciu przycisku "Clear", dane pozostają bez zmian,a powinny zostac usunięte z profilu gracza. 
