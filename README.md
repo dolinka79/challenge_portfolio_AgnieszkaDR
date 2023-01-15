@@ -1,6 +1,6 @@
 # challenge_portfolio_AgnieszkaDR
 # Witam Cię na moim profilu w Githubie :) I hope you enjoy it :) 
-## Miłego oglądania. Agnieszka Dolińska-Rakowska
+# Miłego oglądania. Agnieszka Dolińska-Rakowska
 ## TASK 1
 ### Subtask 1.    Ilość uzyskanych punktów z testu to: 9/10 :) Hurra :D
 ### Subtask 3. 
