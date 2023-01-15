@@ -2,7 +2,7 @@
 # Witam Cię na moim profilu w Githubie :) I hope you enjoy it :) 
 ## Miłego oglądania. Agnieszka Dolińska-Rakowska
 ## TASK 1
-### Subtask 1.    Ilość uzyskanych punktów z testu to:
+### Subtask 1.    Ilość uzyskanych punktów z testu to: 9/10 :) Hurra :D
 ### Subtask 3. 
 #### 3.1. Dlaczego zdecydowałam się na udział w challenge portfolio? 
 #### Cześć, jestem Agnieszka, mama, żonka i być może przyszła testerka oprogramowania. Moim celem jest zmiana obecnej ścieżki zawodowej (jestem inżynierem sanitarnym) na branżę IT. Chciałabym moim portfolio zachęcić potencjalnych pracodawców do jego odwiedzenia oraz zapoznania się z moją osobą, umiejętnościami, celami itd. 
