@@ -12,7 +12,7 @@
 #### 3.3. Co mną kierowało? Jaki jest mój cel? 
 #### Jestem osobą ciekawą świata, gotową na nowe wyzwania zawodowe, posiadam długoletnie doświadczenie zawodowe oraz wysoko rozwinięte zdolności interpersonalne (jak to mawiają: "gdzie chłop nie może, tam mnie pośle").
 #### 3.4. Jakie są moje oczekiwania wobec projektu? 
-### ... kolejny etap w zdobyciu wisienki na torcie -> pracy w branży IT.
+#### ... kolejny etap w zdobyciu wisienki na torcie -> pracy w branży IT.
 ### Subtask 4. Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl :
 #### 4.1. Na czym polega aplikacja? Do czego służy? 
 #### Aplikacja uożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników, po zalogowaniu się do profilu.
