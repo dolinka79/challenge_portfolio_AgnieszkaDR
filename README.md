@@ -10,7 +10,8 @@
 #### Projekt pomoże mi stworzyć pierwsze portfolio i usystematyzować zdobytą dotychczas wiedzę teoeretyczną w zakresie testowania manualnego oprogramowania, a w przyszłości zaowocuje kolejnym korkiem - tstami automatycznymi. 
 #### 3.3. Co mną kierowało? Jaki jest mój cel? 
 #### Jestem osobą ciekawą świata, gotową na nowe wyzwania zawodowe, posiadam długoletnie doświadczenie zawodowe oraz wysoko rozwinite zdolnościinterpersonalne ("gdzie chłop nie może, tam mnie pośle) ;)
-#### 3.4. Jakie są moje oczekiwania wobec projektu? Kolejny etap w zdobyciu wisienki na torcie - pracy w branży IT :)
+#### 3.4. Jakie są moje oczekiwania wobec projektu? 
+### ... kolejny etap w zdobyciu wisienki na torcie - pracy w branży IT :)
 ### Subtask 4. Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl :
 #### 4.1. Na czym polega aplikacja? Do czego służy?
 #### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może bym coś zmieniła? 
