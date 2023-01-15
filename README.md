@@ -10,7 +10,7 @@
 #### 3.2. Dlaczego zdecydowałam się na udział w projekcie? 
 #### Projekt pomoże mi stworzyć pierwsze portfolio i usystematyzować zdobytą dotychczas wiedzę teoeretyczną w zakresie testowania manualnego oprogramowania, a w przyszłości zaowocuje kolejnym korkiem - testami automatycznymi. 
 #### 3.3. Co mną kierowało? Jaki jest mój cel? 
-#### Jestem osobą ciekawą świata, gotową na nowe wyzwania zawodowe, posiadam długoletnie doświadczenie zawodowe oraz wysoko rozwinite zdolnościinterpersonalne ("gdzie chłop nie może, tam mnie pośle) ;)
+#### Jestem osobą ciekawą świata, gotową na nowe wyzwania zawodowe, posiadam długoletnie doświadczenie zawodowe oraz wysoko rozwinięte zdolności interpersonalne (jak to mawiają: "gdzie chłop nie może, tam mnie pośle").
 #### 3.4. Jakie są moje oczekiwania wobec projektu? 
 ### ... kolejny etap w zdobyciu wisienki na torcie -> pracy w branży IT.
 ### Subtask 4. Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl :
