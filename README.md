@@ -12,7 +12,7 @@
 #### 3.3. Co mną kierowało? Jaki jest mój cel? 
 #### Jestem osobą ciekawą świata, gotową na nowe wyzwania zawodowe, posiadam długoletnie doświadczenie zawodowe oraz wysoko rozwinite zdolnościinterpersonalne ("gdzie chłop nie może, tam mnie pośle) ;)
 #### 3.4. Jakie są moje oczekiwania wobec projektu? 
-### ... kolejny etap w zdobyciu wisienki na torcie - pracy w branży IT :)
+### ... kolejny etap w zdobyciu wisienki na torcie -> pracy w branży IT :)
 ### Subtask 4. Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl :
 #### 4.1. Na czym polega aplikacja? Do czego służy? Aplikacja uożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników, po zalogowaniu się do profilu.
 #### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może bym coś zmieniła? 
@@ -29,7 +29,7 @@
 Christiano,"Ronaldo ","1000-03-01","ktr7ir86fyufujh","No. 2","2.5555555555555554","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object 
 aaa,"bbb","1000-03-01","lewa obrona","Odra Opole","3","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
 !@#$%^1234,"d","0001-03-12","najstarsi gĂłrole ni wiedzo hej","Fajny","1.25","[object Object],[object Object],[object Object],[object Object]","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
-### 6. Będąc na stronie głównej - po wybraniu gracze (przy wybranym języku polskim strony) - opcje w prawy górnym rogu w pasku po najechaniu na nie kursorem myszy są wyświetlane ich opisy w języku angielskim, pomimo, iż wybrany został język polski do obsługi strony. 
+#### 6. Będąc na stronie głównej - po wybraniu gracze (przy wybranym języku polskim strony) - opcje w prawy górnym rogu w pasku po najechaniu na nie kursorem myszy są wyświetlane ich opisy w języku angielskim, pomimo, iż wybrany został język polski do obsługi strony. 
 #### 7. Będąc na stronie głównej - po wybraniu gracze lub pod graczami - meczy (przy wybranym języku polskim strony) - opcje edycji - akceptacji edycji lub wprowadzonych danych: jako "Submit" / "Clear" (przyciski edycji) w języku angielskim, pomimo, iż wybrany został język polski do obsługi strony. 
 #### 6. Zalecenia z mojej strony / usprawnienia działania strony:
 #### 6.1. Brakuje (wg mojej oceny) usorawnień na stronie, polegających na możliwości wyboru informacji wprowadzanych np. do prodili graczy, edycji / wprowadzania meczu w profilach graczy (zastosowałabym listy rozwijalne z możliwością wyboru np. w przypadku: ....)
