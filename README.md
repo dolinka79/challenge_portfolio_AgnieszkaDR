@@ -15,9 +15,9 @@
 ### Subtask 4. Testy eksploracyjne – poznaj aplikację https://scouts-test.futbolkolektyw.pl/pl :
 #### 4.1. Na czym polega aplikacja? Do czego służy? Aplikacja uożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników, po zalogowaniu się do profilu.
 #### 4.2. Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może bym coś zmieniła? 
-#### Funkcjonalności w aplikacji: dodawanie/edycja informacji na temat gracza, dodawanie / edycja meczu dla gracza, zmiana języka strony (do wybory dwa języki: angielski, polski), logowanie do profilu głównego aplikacji / strony za pomoca hasła i loginu; możliwośc generowanie wydruku i danych ze strony; filtrowanie informacji na stronie / wyszukiwarka; umożliwienie kontaktu z zespołem Dev. 
-#### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
-#### 4.4. Czy aplikacja jest intuicyjna? 
+#### Funkcjonalności w aplikacji: dodawanie/edycja informacji na temat gracza, dodawanie / edycja meczu dla gracza, zmiana języka strony (do wybory dwa języki: angielski, polski), logowanie do profilu głównego aplikacji / strony za pomoca hasła i loginu; możliwośc generowanie wydruku i danych ze strony, tworzenie rapotów; filtrowanie informacji na stronie / wyszukiwarka; umożliwienie kontaktu z zespołem Dev. 
+#### 4.3. Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? Interfejs strony nie przypadł mi do gustu, logo strony jest mało czytelne, umieszczone w, wg mojej oceny nieprawidłowym miejscu. Brakuje profesjonalnej edycji strony.  
+#### 4.4. Czy aplikacja jest intuicyjna? Tak, wg mnie aplikacja jest intuicyjna, chociaż poprawiłabym ją, z zastosowaniem podlist. 
 #### 4.5. Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? 
 #### Zauważone błędy:
 #### 1. Brak możliwości zalogowania poprzez przeglądarkę Chrome - żaden z podanych użytkowników i hasła "nie wchodzi". Po wpisaniu i próbie akceptacji, w celu zalogowania (na stronie głównej do logowania - Scouts panel: ) - pojawia się komunikat: niepraawidłowe hasło lub użytkownik" w języku angielskim: "Identifier or password invalid". 
@@ -29,6 +29,8 @@ Christiano,"Ronaldo ","1000-03-01","ktr7ir86fyufujh","No. 2","2.5555555555555554
 aaa,"bbb","1000-03-01","lewa obrona","Odra Opole","3","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
 !@#$%^1234,"d","0001-03-12","najstarsi gĂłrole ni wiedzo hej","Fajny","1.25","[object Object],[object Object],[object Object],[object Object]","[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
 
+### 6. Będąc na stronie głównej - po wybraniu gracze (przy wybranym języku polskim strony) - opcje w prawy górnym rogu w pasku po najechaniu na nie kursorem myszy są wyświetlane ich opisy w języku angielskim, pomimo, iż wybrany został język polski do obsługi strony. 
+#### 7. Będąc na stronie głównej - po wybraniu gracze lub pod graczami - meczy (przy wybranym języku polskim strony) - opcje edycji - akceptacji edycji lub wprowadzonych danych: jako "Submit" / "Clear" (przyciski edycji) w języku angielskim, pomimo, iż wybrany został język polski do obsługi strony. 
 #### 6. Zalecenia z mojej strony / usprawnienia działania strony:
 #### 6.1. Brakuje (wg mojej oceny) usorawnień na stronie, polegających na możliwości wyboru informacji wprowadzanych np. do prodili graczy, edycji / wprowadzania meczu w profilach graczy (zastosowałabym listy rozwijalne z możliwością wyboru np. w przypadku: ....)
 #### 6.2. Zastosowałabym wyszczególnienie jednostki czasu w przypadku edycji / wprowadzania danych do zakładki "Edycja meczu dla gracza" (Gracz -> wybór gracza - > "Mecze" -> Dodawanie meczu dla gracza ... lub Edycja meczu dla gracza ... - w polu: Czas gry - brakuje jednostki czasu, jaką należy wybrać (minuty, godziny, sekundy ?).
