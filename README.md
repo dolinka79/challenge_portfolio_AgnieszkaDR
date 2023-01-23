@@ -37,5 +37,5 @@
 #### 8.3. Po wybraniu w Scouts Panel / profilu głównym: zakładki Dev Team Contakt - pojawia się przekierowanie do Slacka - powinien zostać stworzony formulacz kontaktowy lub pozostawiony e-mail i dane kontaktowe, celem umożliwienia kontaktu z zespołem (przekierownaie do Slacka bez posiadania hasła i loginu do grupy w nim, uniemożliwia kontakt).
 ### Subtask 5. Jira – DLA CHĘTNYCH - zadanie wykonane - działamy już w grupie !
 ## Task 2
-### Subtask 3. Dlaczego piszemy przypadki testowe? Na co to komu potrzebne? Odpowiedz na to pytanie w naszym zdalnym repozytorium.
+### Subtask 3. Dlaczego piszemy przypadki testowe? 
 #### Test casy są pisane poto, by uszczegółowić scenariusze wysokiego poziomu i zebrać te informacje w jednym miejscu. Ponadto dzięki przypadkom testowym możliwe jest przedstawienie błędu programu, aplikacji, dzięki wskazanym krokom postępowania, które doprowadziły do odnalezienia błędów. 
