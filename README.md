@@ -38,4 +38,4 @@
 ### Subtask 5. Jira – DLA CHĘTNYCH - zadanie wykonane - działamy już w grupie !
 ## Task 2
 ### Subtask 3. Dlaczego piszemy przypadki testowe? 
-#### Test casy są pisane poto, by uszczegółowić scenariusze wysokiego poziomu i zebrać te informacje w jednym miejscu. Ponadto dzięki przypadkom testowym możliwe jest przedstawienie błędu programu, aplikacji, dzięki wskazanym krokom postępowania, które doprowadziły do odnalezienia błędów. 
+#### Test casy są pisane w celu uszczegółowienia scenariuszy wysokiego poziomu i zebrania tych informacji w jednym miejscu. Ponadto dzięki przypadkom testowym możliwe jest przedstawienie błędu programu, aplikacji, dzięki wskazanym krokom postępowania, które doprowadziły do odnalezienia błędów. 
