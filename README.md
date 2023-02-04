@@ -51,9 +51,9 @@
 ## Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 ### Aplikacja ta stanowi portal ogłoszeniowy, służy do zamieszczania ogłoszeń przez sprzedających i kupujących, wyszukiwanie ogłoszeń, zakup towarów poprzez aplikację, płatności za towary dzięki jej funkcjom, kontakt pomiędzy klientami. 
 ## Kto ma być użytkownikiem końcowym aplikacji?
-### Tak, według mojej oceny aplikacja jest bardzo przyjazna dla użytkownika, intuicyjna. 
+### Uzytkownikiem końcowym aplikacji są firmy lub osoby prywatne chcące dokonac sprzedaży, zakupu towarów poprzez aplikację. 
 ## Czy według Ciebie aplikacja jest user friendly?
-### TAK, jest user friendly.
+### TAK, jest user friendly. Tak, według mojej oceny aplikacja jest bardzo przyjazna dla użytkownika, intuicyjna. 
 ## Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
 ### Usprawniłabym działania aplikacji poprzez eliminajcę błędów, które zamieściłam w portfolio. 
 ## Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej a natywnej?
