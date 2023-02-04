@@ -36,14 +36,13 @@
 #### 8.2. Zastosowałabym wyszczególnienie jednostki czasu w przypadku edycji / wprowadzania danych do zakładki "Edycja meczu dla gracza" (Gracz -> wybór gracza - > "Mecze" -> w oknie: "Dodawanie meczu dla gracza ..." lub "Edycja meczu dla gracza ..." - w polu: "Czas gry" - brakuje jednostki czasu, jaką należy wybrać (minuty, godziny, sekundy ?).
 #### 8.3. Po wybraniu w Scouts Panel / profilu głównym: zakładki Dev Team Contakt - pojawia się przekierowanie do Slacka - powinien zostać stworzony formulacz kontaktowy lub pozostawiony e-mail i dane kontaktowe, celem umożliwienia kontaktu z zespołem (przekierownaie do Slacka bez posiadania hasła i loginu do grupy w nim, uniemożliwia kontakt).
 ### Subtask 5. Jira – DLA CHĘTNYCH - zadanie wykonane - działamy już w grupie !
-## Task 2
+## Task 2. Przypadki testowe
 ### Subtask 3. Dlaczego piszemy przypadki testowe? 
-#### Test casy są pisane w celu uszczegółowienia scenariuszy wysokiego poziomu i zebrania tych informacji w jednym miejscu. Ponadto dzięki przypadkom testowym możliwe jest przedstawienie błędu programu, aplikacji, dzięki wskazanym krokom postępowania, które doprowadziły do odnalezienia błędów. 
-# Zadanie 2. Przypadki testowe
+#### Test casy są pisane w celu uszczegółowienia scenariuszy wysokiego poziomu i zebrania tych informacji w jednym miejscu. Ponadto dzięki przypadkom testowym możliwe 
 ### https://drive.google.com/drive/folders/1pqQ-1TuMhR0din42cYWBFgTMZBYOqDQV?usp=sharing
-# Zadanie 3. Raportowanie błędów
+# Task 3. Raportowanie błędów
 ### https://drive.google.com/drive/folders/1HbXGeI_B_8EhXLirP0Xdfd7-24dX7o0x?usp=sharing
-# Zadanie 4. Testowanie aplikacji mobilnych
+# Task 4. Testowanie aplikacji mobilnych
 ## Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu 
 ### https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0?usp=sharing
 ## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów  
