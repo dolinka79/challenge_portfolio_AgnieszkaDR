@@ -47,3 +47,14 @@
 ### https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0?usp=sharing
 ## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów  
 ### https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0?usp=sharing 
+# Subtask 3 - Do czego służy aplikacja mobilna olx.pl ?
+## Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+### Aplikacja ta stanowi portal ogłoszeniowy, służy do zamieszczania ogłoszeń przez sprzedających i kupujących, wyszukiwanie ogłoszeń, zakup towarów poprzez aplikację, płatności za towary dzięki jej funkcjom, kontakt pomiędzy klientami. 
+## Kto ma być użytkownikiem końcowym aplikacji?
+### Tak, według mojej oceny aplikacja jest bardzo przyjazna dla użytkownika, intuicyjna. 
+## Czy według Ciebie aplikacja jest user friendly?
+### TAK, jest user friendly.
+## Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+### Usprawniłabym działania aplikacji poprzez eliminajcę błędów, które zamieściłam w portfolio. 
+## Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+### Wygodniej jest wg mojej oceny pracowac z aplikacją mobilną, gdyż użycie jej za pomocą smartfona może odbywac się w każdym miejscu, o dowolnej porze, wystarczy dostęp do aplikacji jest ułatwiony.
