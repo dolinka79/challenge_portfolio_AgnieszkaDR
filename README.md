@@ -39,10 +39,12 @@
 ## Task 2
 ### Subtask 3. Dlaczego piszemy przypadki testowe? 
 #### Test casy są pisane w celu uszczegółowienia scenariuszy wysokiego poziomu i zebrania tych informacji w jednym miejscu. Ponadto dzięki przypadkom testowym możliwe jest przedstawienie błędu programu, aplikacji, dzięki wskazanym krokom postępowania, które doprowadziły do odnalezienia błędów. 
-
-
+# Zadanie 2. Przypadki testowe
+### https://drive.google.com/drive/folders/1pqQ-1TuMhR0din42cYWBFgTMZBYOqDQV?usp=sharing
+# Zadanie 3. Raportowanie błędów
+### https://drive.google.com/drive/folders/1HbXGeI_B_8EhXLirP0Xdfd7-24dX7o0x?usp=sharing
 # Zadanie 4. Testowanie aplikacji mobilnych
 ## Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu 
 ### https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0?usp=sharing
 ## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów  
-### https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0?usp=sharing https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0?usp=sharing
+### https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0?usp=sharing 
