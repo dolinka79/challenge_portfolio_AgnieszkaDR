@@ -57,4 +57,4 @@
 ## Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
 ### Usprawniłabym działania aplikacji poprzez eliminajcę błędów, które zamieściłam w portfolio. 
 ## Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
-### Wygodniej jest wg mojej oceny pracowac z aplikacją mobilną, gdyż użycie jej za pomocą smartfona może odbywac się w każdym miejscu, o dowolnej porze, wystarczy dostęp do aplikacji jest ułatwiony.
+### Wygodniej jest wg mojej oceny pracować z użyciem aplikacji mobilnej, gdyż użycie jej za pomocą smartfona może odbywac się w każdym miejscu, o dowolnej porze, wystarczy dostęp do aplikacji jest ułatwiony. Może być to jednak, z drugiej strony, utrudnieniem dla osób starszych, które często nie potrafią sprawnie obłużyć smartfona. 
