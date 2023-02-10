@@ -58,3 +58,6 @@
 ### Usprawniłabym działania aplikacji poprzez eliminajcę błędów, które zamieściłam w portfolio. Popracowałabym także nad grafiką. 
 ## Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej a natywnej?
 ### Wygodniej jest według mojej oceny pracować z użyciem aplikacji mobilnej, gdyż użycie jej za pomocą smartfona może odbywac się w każdym miejscu, o dowolnej porze. Może być to jednak, z drugiej strony, utrudnieniem dla osób starszych, które często nie potrafią sprawnie obłużyć smartfona. 
+# Task 5 - SQL part 1
+## Subtask 3. Zadania - SQL 
+### https://drive.google.com/drive/folders/1tIYb44a7l6s1hH-cM3EaV4FnGLL_sOFt
