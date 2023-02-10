@@ -62,23 +62,23 @@
 ## Subtask 1. 
 ###  Operatory/zapytania SQL: 
 #### Operatory porównania:
-=	Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli tak to warunek jest prawdziwy.
-!=	Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli nie to warunek jest prawdziwy.
-<>	Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli nie to warunek jest prawdziwy.
->	Sprawdzenie czy wartość po lewej stronie operatora jest większa. Jeżeli tak to warunek jest prawdziwy.
-<	Sprawdzenie czy wartość po lewej stronie operatora jest mniejsza. Jeżeli tak to warunek jest prawdziwy.
->=	Sprawdzenie czy wartość po lewej stronie operatora jest większa bądź równa prawej stronie. Jeżeli tak to warunek jest prawdziwy.
-<=	Sprawdzenie czy wartość po lewej stronie operatora jest mniejsza bądź równa prawej stronie. Jeżeli tak to warunek jest prawdziwy.
-!<	Sprawdzenie czy wartość po lewej stronie operatora jest nie mniejsza od wartości po prawej stronie. Jeżeli tak to warunek jest prawdziwy.
-!>	Sprawdzenie czy wartość po lewej stronie jest nie większa od wartości po prawej stronie. Jeżeli tak to warunek jest prawdziwy.
+##### =	Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli tak to warunek jest prawdziwy.
+##### !=	Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli nie to warunek jest prawdziwy.
+##### <>	Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli nie to warunek jest prawdziwy.
+##### >	Sprawdzenie czy wartość po lewej stronie operatora jest większa. Jeżeli tak to warunek jest prawdziwy.
+##### <	Sprawdzenie czy wartość po lewej stronie operatora jest mniejsza. Jeżeli tak to warunek jest prawdziwy.
+##### >=	Sprawdzenie czy wartość po lewej stronie operatora jest większa bądź równa prawej stronie. Jeżeli tak to warunek jest prawdziwy.
+##### <=	Sprawdzenie czy wartość po lewej stronie operatora jest mniejsza bądź równa prawej stronie. Jeżeli tak to warunek jest prawdziwy.
+##### !<	Sprawdzenie czy wartość po lewej stronie operatora jest nie mniejsza od wartości po prawej stronie. Jeżeli tak to warunek jest prawdziwy.
+##### !>	Sprawdzenie czy wartość po lewej stronie jest nie większa od wartości po prawej stronie. Jeżeli tak to warunek jest prawdziwy.
 #### Operatory logiczne:
-AND	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
-BETWEEN	Operator pozwala na wyszukiwanie wartości, które mieszczą się w zdefiniowanym zbiorze wartości. Definicja zbioru opiera się na wartości minimalnej oraz maksymalnej.
-IN	Operator pozwala na określenie wielu wartości w klauzuli WHERE.
-LIKE	Operator pozwala na porównanie wartości z wartościami podobnymi przy zastosowaniu operatorów wieloznacznych.
-NOT	Operator negujący służy do odwrócenia znaczenia operatora logiczego z którym jest używany. Prostymi przykładami użycia są: NOT IN, NOT EXISTS, etc.
-OR	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
-IS NULL	Operator pozwala na dokonanie porównania z 'wartością' NULL.
-UNIQUE	Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.
+##### AND	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
+##### BETWEEN	Operator pozwala na wyszukiwanie wartości, które mieszczą się w zdefiniowanym zbiorze wartości. Definicja zbioru opiera się na wartości minimalnej oraz maksymalnej.
+##### IN	Operator pozwala na określenie wielu wartości w klauzuli WHERE.
+##### LIKE	Operator pozwala na porównanie wartości z wartościami podobnymi przy zastosowaniu operatorów wieloznacznych.
+##### NOT	Operator negujący służy do odwrócenia znaczenia operatora logiczego z którym jest używany. Prostymi przykładami użycia są: NOT IN, NOT EXISTS, etc.
+##### OR	Operator pozwala na łączenie wielu warunków w klauzuli WHERE.
+##### IS NULL	Operator pozwala na dokonanie porównania z 'wartością' NULL.
+##### UNIQUE	Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.
 ## Subtask 3. Zadania - SQL 
 ### https://drive.google.com/drive/folders/1tIYb44a7l6s1hH-cM3EaV4FnGLL_sOFt
