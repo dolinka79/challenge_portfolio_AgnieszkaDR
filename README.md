@@ -59,7 +59,7 @@
 ## Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej a natywnej?
 ### Wygodniej jest według mojej oceny pracować z użyciem aplikacji mobilnej, gdyż użycie jej za pomocą smartfona może odbywac się w każdym miejscu, o dowolnej porze. Może być to jednak, z drugiej strony, utrudnieniem dla osób starszych, które często nie potrafią sprawnie obłużyć smartfona. 
 # Task 5 - SQL part 1
-## Subtask 1. 
+## Subtask 1. Poznane operatory w SQL:
 ###  Operatory/zapytania SQL: 
 #### Operatory porównania:
 ##### =	Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli tak to warunek jest prawdziwy.
