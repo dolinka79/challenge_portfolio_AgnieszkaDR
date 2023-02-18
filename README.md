@@ -82,3 +82,7 @@
 ##### UNIQUE	Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.
 ## Subtask 3. Zadania - SQL 
 ### https://drive.google.com/drive/folders/1tIYb44a7l6s1hH-cM3EaV4FnGLL_sOFt
+# Task 6
+## Subtask 1
+## Subtask 2: Wynik testu Ecru na http://getistqb.com/quiz-ecru/: 12/15 :)
+## Subtask 3
